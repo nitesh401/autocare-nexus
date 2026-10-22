@@ -100,5 +100,4 @@ See `docs/`:
 See `IMPLEMENTATION_STATUS.md` for the full list and next steps.
 
 ## License
-
-Add a license of your choice (e.g. MIT) before publishing.
+ MIT
